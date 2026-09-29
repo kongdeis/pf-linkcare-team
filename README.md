@@ -14,6 +14,11 @@
 - Backend : NestJs, Typescript, Prisma
 - DB : PostgreSQL
 
+<p>
+<a href="readme/personal-work.md" style="color:#0969da;"> <strong>담당 영역 · 개인 작업 상세 보기 →</strong></a>
+</p>
+
+<br/>
 
 ## 프로젝트 내용
 
